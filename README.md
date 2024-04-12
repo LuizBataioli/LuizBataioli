@@ -11,9 +11,7 @@
 
 <div align="center">
  
-  💻 Currently, I'm focusing on improving my skills in system development, exploring languages ​​like **JavaScript, TypeScript, SQL, PHP, React, Java, HTML, and CSS**. My goal is to  gain practical experience and insights from seasoned professionals to enhance my professional knowledge.
-
-  📍 I started with **Electrical Maintenance at SENAI** and transitioned into software development, where I discovered a passion for design. I use tools like Figma to materialize creative ideas, aiming to become a **Front-end Web developer**.
+  💻 Currently, I'm focusing on improving my skills in system development, exploring languages ​​like **JavaScript, TypeScript, SQL, Java, HTML, and CSS**. My goal is to  gain practical experience and insights from seasoned professionals to enhance my professional knowledge.
  </div>
  
 <div align="center"> 
