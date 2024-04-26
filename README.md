@@ -1,7 +1,12 @@
 <h2>Luiz Henrique Silva Bataioli</h2>
 
-<p>- Faço Técnico em Desenvolvimento de Sistemas desde março de 2023</p>
-<p>- Sou estágiario na emprea DeServ, atuo como suporte técnico</p>
+<ul>
+  <li>Formação: Técnico em Desenvolvimento de Sistemas (desde março de 2023)</li>
+  <li>Experiência Profissional: Estagiário na empresa DeServ</li>
+  <li>Cargo: Suporte Técnico</li>
+</ul>
+
+
 
 <h3>Skils:</h3>
 
