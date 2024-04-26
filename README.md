@@ -1,7 +1,7 @@
 <h2>Luiz Henrique Silva Bataioli</h2>
 
 <ul>
-  <li>Formação: Técnico em Desenvolvimento de Sistemas (desde março de 2023)</li>
+  <li>Formação: Técnico em Desenvolvimento de Sistemas (cursando desde março de 2023)</li>
   <li>Experiência Profissional: Estagiário na empresa DeServ</li>
   <li>Cargo: Suporte Técnico</li>
 </ul>
