@@ -8,7 +8,7 @@
 
 
 
-<h3>Skils:</h3>
+<h3>Skills:</h3>
 
 <ul>
   <li>Java</li>
